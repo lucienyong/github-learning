@@ -1,8 +1,3 @@
-GitHub的学习与使用
+GitHub的前期准备
 ==
-操作系统：Windows 10 Enterprise 64-bit Operating System
---
-软件：Git-2.25.1-64-bit.exe 链接：https://gitforwindows.org/
---
-参考资料：《Github入门与实践》
---
+[Prepare for play with GitHub](./Prepare.md)
