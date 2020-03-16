@@ -1,6 +1,6 @@
-GitHub的学习与使用
+GitHub的操作实践
 ==
-操作系统：Windows 10 Enterprise 64-bit Operating System
+[1.创建仓库](./1.创建仓库.md)
 --
 软件：Git-2.25.1-64-bit.exe 链接：https://gitforwindows.org/
 --
