@@ -5,7 +5,8 @@ GitHub的操作实践
 [3.公开代码](./3.公开代码.md)  
 [4.通过Git进行仓库的基本操作](./4.通过Git进行仓库的基本操作.md)  
 [5.分支的操作](./5.分支的操作.md)  
-[6.推送至远程仓库](./6.推送至远程仓库.md)
-[7.发送Pull-Request](./7.发送Pull-Request.md)
-[8.仓库的维护](./8.仓库的维护.md)
-[9.接收Pull-Request](./9.接收Pull-Request.md)
+[6.推送至远程仓库](./6.推送至远程仓库.md)  
+[7.发送Pull-Request](./7.发送Pull-Request.md)  
+[8.仓库的维护](./8.仓库的维护.md)  
+[9.接收Pull-Request](./9.接收Pull-Request.md)  
+
