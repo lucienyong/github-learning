@@ -8,6 +8,7 @@ GitHub的操作实践
 [6.推送至远程仓库](./6.推送至远程仓库.md)    
 [7.发送Pull-Request](./7.发送Pull-Request.md)    
 [8.仓库的维护](./8.仓库的维护.md)    
-[9.接收Pull-Request](./9.接收Pull-Request.md)    
+[9.接收Pull-Request](./9.接收Pull-Request.md)      
+[10.在文档中插入公式](./10.在文档中插入公式.md)  
 
 
